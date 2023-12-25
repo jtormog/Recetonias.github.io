@@ -1,13 +1,14 @@
-section{
+body{
     background-color: #f5f5f5;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     line-height: 1.5;
     color: #333;
+}
+section{
     margin-left: 10%;
 }
-h1{
-    font-size: 26px;
+header{
     text-align: center;
 }
 h2{
