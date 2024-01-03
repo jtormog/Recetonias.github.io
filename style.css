@@ -70,6 +70,7 @@ img {
 }
 .emoji {
     font-family: 'Noto Color Emoji', sans-serif;
+    font-size: 1rem;
 }
 .emoji-planta {
     font-family: 'Noto Color Emoji', sans-serif;
