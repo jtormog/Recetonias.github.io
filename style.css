@@ -27,30 +27,19 @@ header{
     padding: 1rem;
     font-family: 'Lobster', sans-serif;
 }
--moz-p, h1{
+-moz-p, h1, h2{
     display: inline;
 }
--webkit-p, h1{
+-webkit-p, h1, h2{
     display: inline;
 }
--ms-p, h1{
+-ms-p, h1, h2{
     display: inline;
 }
-p, h1{
+p, h1, h2{
  display: inline;
 }
--moz-p, h2{
-    display: inline;
-}
--webkit-p, h2{
-    display: inline;
-}
--ms-p, h2{
-    display: inline;
-}
-p, h2{
- display: inline;
-}
+
 h3{
     font-size: 1.1em;
     line-height: 1.1em;
