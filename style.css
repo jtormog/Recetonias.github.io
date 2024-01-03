@@ -36,10 +36,16 @@ header{
 -ms-p, h1, h2{
     display: inline;
 }
+<<<<<<< HEAD
 p, h1, h2{
  display: inline;
 }
 
+=======
+p, h1{
+ display: inline;
+}
+>>>>>>> parent of 2f0a675 (	modified:   index.html)
 h3{
     font-size: 1.1em;
     line-height: 1.1em;
