@@ -21,7 +21,14 @@ article{
 header{
     text-align: center;
     color: #2bad3c;
+    font-size: 1.7em;
+    line-height: 1.7em;
     text-shadow: #333 1px 1px 1px;
+    padding: 1rem;
+    font-family: 'Lobster', sans-serif;
+}
+p, h1{
+    display: inline;
 }
 h3{
     font-size: 1.1em;
@@ -35,11 +42,6 @@ h2{
     text-align: center;
     margin-bottom: 1em;
 }
-h1{
-    font-family: 'Lobster', sans-serif;
-    font-size: 2.3em;
-    line-height: 2.3em;
-}
 ul, ol{
     margin-left: 1.5em;
     margin-top: 0.5em;
@@ -52,10 +54,13 @@ img {
     width: 50%;
 }
 .aviso {
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 20px;
+    padding: 1em;
     background-color: #f44336;
     color: white;
     margin-bottom: 15px;
 }
+.emoji {
+    font-family: 'Noto Color Emoji', sans-serif;
+    font-size: 130%;
+}
+
