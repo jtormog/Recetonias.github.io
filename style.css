@@ -27,8 +27,17 @@ header{
     padding: 1rem;
     font-family: 'Lobster', sans-serif;
 }
-p, h1{
+-moz-p, h1, h2{
     display: inline;
+}
+-webkit-p, h1, h2{
+    display: inline;
+}
+-ms-p, h1, h2{
+    display: inline;
+}
+p, h1, h2{
+ display: inline;
 }
 h3{
     font-size: 1.1em;
